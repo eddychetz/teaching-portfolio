@@ -9,6 +9,7 @@ weight: 10
 
 Assessments given to students are fair enough to address all angles, linking theory with hands-on that is industrial-related examples. In the case of Applied Mathematics 281, students are given 3 assignments to submit within the course duration with specific deadlines. There are 3 weekly tests as well to be written in a monitored environment of which the first 2 tests are formative and the last is summative.
 
+
             Assessments        Weights
             ============================
             Assignment 1         10      
@@ -20,6 +21,7 @@ Assessments given to students are fair enough to address all angles, linking the
             ===========================
             Total               150 
             ===========================
+            
 
 Apart from all of these graded assessments, students are given a lot of activities during the course study, this includes practice questions with solutions as homework, mock tests for every graded test to allow them more engagement and participation especially passive learners. A student is required to score at least 50% of the total weights in order to write examination at the end of quarter in which the course is being offered. The examination carries 70% while the continuous assessment contributes 30%.
 
