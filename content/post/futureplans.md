@@ -1,5 +1,4 @@
 ---
-author: Eddwin Cheteni
 date: "2022-10-20"
 linktitle: Future Plans
 title: Future Plans

@@ -1,5 +1,5 @@
 ---
-date: "2022-10-20"
+date: "2022-10-15"
 linktitle: Course Design
 title: Course Design
 weight: 10

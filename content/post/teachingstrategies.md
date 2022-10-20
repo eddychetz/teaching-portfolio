@@ -1,5 +1,5 @@
 ---
-date: "2022-10-20"
+date: "2022-10-16"
 description: ""
 title: Teaching and Learning Strategies
 ---

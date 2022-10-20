@@ -1,6 +1,6 @@
 ---
 author: Eddwin Cheteni
-date: "2022-10-20"
+date: "2022-10-14"
 linktitle: Creating a New Theme
 title: Vision
 weight: 10
